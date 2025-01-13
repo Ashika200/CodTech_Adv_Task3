@@ -1,8 +1,8 @@
-## Name: Ashika Jain
-## Company: CODTECH IT SOLUTIONS
-## ID: CT08FDI
-## Domain: Data Analytics
-## Duration: December to January 2025
+# Name: Ashika Jain
+# Company: CODTECH IT SOLUTIONS
+# ID: CT08FDI
+# Domain: Data Analytics
+# Duration: December to January 2025
 
 
 # Power BI Analysis of Sales Data
